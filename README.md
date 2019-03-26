@@ -2,4 +2,4 @@
 
 This is where I can have my posts and links to individual group members 
 
-## [Perlitz](Perlitz.md)
+### [Perlitz](Perlitz.md)
