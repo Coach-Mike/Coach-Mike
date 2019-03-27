@@ -1,5 +1,13 @@
-## Welcome to my page
+# Welcome to Coach-Mike's Team!
 
-This is where I can have my posts and links to individual group members 
+### my posts
 
-### [Perlitz](Perlitz.md)
+### resources 
+
+### weekly info
+
+### Personal plans
+
+- [Perlitz](Perlitz.md)
+- [Glassman](Glassman.md)
+- [Eli](Eli.md)
