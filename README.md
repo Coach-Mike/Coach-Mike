@@ -1,6 +1,13 @@
 # Welcome to Coach-Mike's Team!
 
+Welcome to my team, this is a place for me to share some of my knowledge via posts and weekly info.
+If you are a member of my team, scroll down for your personal plan.
+
 ### my posts
+
+- [Breathing Excercises](Breathing_excercises_post.md)
+- [The Foam Roller](Foam_roller_post.md)
+- [Breathing Excercises](Breathing_excercises.md)
 
 ### resources 
 
@@ -11,3 +18,5 @@
 - [Perlitz](Perlitz.md)
 - [Glassman](Glassman.md)
 - [Eli](Eli.md)
+- [Hatzav](Hatzav.md)
+- [Amir](Amir.md)
