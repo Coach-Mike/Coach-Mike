@@ -7,7 +7,7 @@ If you are a member of my team, scroll down for your personal plan.
 
 - [Breathing Excercises](Breathing_excercises_post.md)
 - [The Foam Roller](Foam_roller_post.md)
-- [Breathing Excercises](Breathing_excercises.md)
+- [impingement, WTF?](Impingement_post.md)
 
 ### resources 
 
