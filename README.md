@@ -3,7 +3,7 @@
 Welcome to my team, this is a place for me to share some of my knowledge via posts and weekly info.
 If you are a member of my team, scroll down for your personal plan.
 
-## My posts
+## My recent posts
 
 - [Breathing Excercises](Posts/Breathing_excercises_post.md)
 - [The Foam Roller](Posts/Foam_roller_post.md)
@@ -16,10 +16,10 @@ If you are a member of my team, scroll down for your personal plan.
 
 ## Weekly info
 
+- Getting a bigger butt is easier than you thought! check out [this video] and see the magic.
+
 ## Personal plans
 
-- [Perlitz](Perlitz/Perlitz.md)
-- [Glassman](Glassman/Glassman.md)
-- [Eli](Eli/Eli.md)
-- [Hatzav](Hatzav/Hatzav.md)
-- [Amir](Amir/Amir.md)
+|[Glassman](Glassman/Glassman.md) | [Perlitz](Perlitz/Perlitz.md) | [Eli](Eli/Eli.md)|
+| [Hatzav](Hatzav/Hatzav.md) | [Amir](Amir/Amir.md) | [Sela](Sela/Sela.md) |
+
