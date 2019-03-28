@@ -8,4 +8,4 @@ The deep compression of self-myofascial release allows normal blood flow to retu
 
 A nice set of excercises can be seen below:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8caF1Keg2XU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/8caF1Keg2XU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
