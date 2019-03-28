@@ -20,7 +20,7 @@ If you are a member of my team, scroll down for your personal plan.
 
 ## Personal plans
 
-|             :                   |               :               |         :            |
 |[Glassman](Glassman/Glassman.md) | [Perlitz](Perlitz/Perlitz.md) | [Eli](Eli/Eli.md)    |
+|             :                   |               :               |         :            |
 | [Hatzav](Hatzav/Hatzav.md)      | [Amir](Amir/Amir.md)          | [Sela](Sela/Sela.md) |
 
