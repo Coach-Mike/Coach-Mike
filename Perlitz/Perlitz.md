@@ -1,5 +1,9 @@
 # Yotam Perlitz
 
-This is the workout for Yotam, [this](https://www.youtube.com/watch?v=afghBre8NlI) is a nice video.
+## Goal - Survive the office
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+
+## Plan
 
 [Workout plan](Perlitz_workout_plan.pdf)
