@@ -1,6 +1,6 @@
 # Yotam Perlitz
 
-Current plan [**Here**][Workout plan](Perlitz_workout_plan.pdf)
+Current plan [**Here**](Perlitz_workout_plan.pdf)
 
 ## Goal - Survive the office
 
