@@ -16,7 +16,7 @@ If you are a member of my team, scroll down for your personal plan.
 
 ## Weekly info
 
-- Getting a bigger butt is easier than you thought! check out [this video] and see the magic.
+- Getting a bigger butt is easier than you thought! check out [this video](https://www.youtube.com/watch?v=afghBre8NlI) and see the magic.
 
 ## Personal plans
 
