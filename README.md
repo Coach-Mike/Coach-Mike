@@ -17,8 +17,8 @@ If you are a member of my team, scroll down for your personal plan.
 
 ## Personal plans
 
-- [Perlitz](Perlitz.md)
-- [Glassman](Glassman.md)
-- [Eli](Eli.md)
-- [Hatzav](Hatzav.md)
-- [Amir](Amir.md)
+- [Perlitz](Perlitz/Perlitz.md)
+- [Glassman](Glassman/Glassman.md)
+- [Eli](Eli/Eli.md)
+- [Hatzav](Hatzav/Hatzav.md)
+- [Amir](Amir/Amir.md)
