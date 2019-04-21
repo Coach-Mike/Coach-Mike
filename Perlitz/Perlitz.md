@@ -2,15 +2,18 @@
 
 Check out your current plan [**Here**](Perlitz_phase_2.pdf)
 
-## Goal - Survive the office
+## Functional Movement Screen Priorities
+Reduce shoulder pain 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
-
-## Who are we planning to do it?
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+## Personal Goals 
+Survive the office
+General health program
+Strength program along side aerobic conditioning program 
 
 ## Personal resources
 
 <iframe width="100%" height="250" src="https://www.youtube.com/embed/engHP9OA92U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+##Personal Training Programs
+Phase 1  [**Here**](Perlitz_phase_2.pdf)
+Phase 2 [**Here**](Perlitz_phase_2.pdf)
