@@ -3,7 +3,7 @@
 Welcome to my team, this is a place for me to share some of my knowledge via posts and weekly info.
 If you are a member of my team, scroll down for your personal plan.
 
-## My recent posts
+## Weekly info
 
 - [Breathing Excercises](Posts/Breathing_excercises_post.md)
 - [The Foam Roller](Posts/Foam_roller_post.md)
@@ -15,9 +15,6 @@ If you are a member of my team, scroll down for your personal plan.
 - My [YouTube channel](https://www.youtube.com/channel/UCLdE68DVcsveVZOibkKn1iA/videos)
 - A great video about [barefoot running](https://youtu.be/TgFj3jy4h2Y?t=21).
 
-## Weekly info
-
-- Getting a bigger butt is easier than you thought! check out [this video](https://www.youtube.com/watch?v=afghBre8NlI) and see the magic.
 
 ## Personal plans
 
