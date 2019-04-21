@@ -1,6 +1,6 @@
 # Yotam Perlitz
 
-Check out your current plan [**Here**](Perlitz_phase_2.pdf)
+Check out your current plan [**Here**](Perlitz_Phase_2.pdf)
 
 ## Functional Movement Screen Priorities
 Reduce shoulder pain 
@@ -15,5 +15,5 @@ Reduce shoulder pain
 <iframe width="100%" height="250" src="https://www.youtube.com/embed/engHP9OA92U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ##Personal Training Programs
-Phase 1  [**Here**](Perlitz_phase_1.pdf)
-Phase 2  [**Here**](Perlitz_phase_2.pdf)
+Phase 1  [**Here**](Perlitz_workout_plan.pdf)
+Phase 2  [**Here**](Perlitz_Phase_2.pdf)
