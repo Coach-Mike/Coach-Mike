@@ -1,6 +1,6 @@
 # Yotam Perlitz
 
-Check out your current plan [**Here**](Perlitz_workout_plan.pdf)
+Check out your current plan [**Here**](Perlitz_phase_2.pdf)
 
 ## Goal - Survive the office
 
