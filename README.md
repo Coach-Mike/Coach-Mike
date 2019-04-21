@@ -10,6 +10,7 @@ If you are a member of my team, scroll down for your personal plan.
 - [impingement, WTF?](Posts/Impingement_post.md)
 - [ACL prevention](Posts/ACL_prevention.md)
 - [The Fundamental Philosophy of FMS](Posts/The_Fundamental_Philosophy_of_FMS.md)
+- [The Joint by Joint Approach](Posts/The_Joint_by_Joint_Approach.md)
 
 ## Resources 
 
