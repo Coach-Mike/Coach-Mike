@@ -9,6 +9,7 @@ If you are a member of my team, scroll down for your personal plan.
 - [The Foam Roller](Posts/Foam_roller_post.md)
 - [impingement, WTF?](Posts/Impingement_post.md)
 - [ACL prevention](Posts/ACL_prevention.md)
+- [The Fundamental Phylosophy of FMS](Posts/The_Fundamental_Phylosophy_of_FMS.md)
 
 ## Resources 
 
