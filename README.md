@@ -6,7 +6,7 @@ If you are a member of my team, scroll down for your personal plan.
 ## Weekly info
 
 - [The Fundamental Philosophy of FMS](Posts/Week_1-_The_Fundamental_Philosophy_of_FMS.md)
-- [The Joint by Joint Approach](Posts/Week_2-_The_Joint_by_Joint_Approach.md) - [Breathing Excercises](Posts/Breathing_excercises_post.md)
+- [The Joint by Joint Approach](Posts/Week_2_-_The_Joint_by_Joint_Approach.md) - [Breathing Excercises](Posts/Breathing_excercises_post.md)
 - [The Foam Roller](Posts/Foam_roller_post.md)
 - [impingement, WTF?](Posts/Impingement_post.md)
 - [ACL prevention](Posts/ACL_prevention.md)
