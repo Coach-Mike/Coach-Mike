@@ -20,6 +20,6 @@ If you are a member of my team, scroll down for your personal plan.
 
 ## Personal plans
 
-|[Eitan Glassman](Glassman/Glassman.md) | [Yotam Perlitz](Perlitz/Perlitz.md) | [Eli Babajanov](Eli/Eli.md)   |
-|[Hatzav Something](Hatzav/Hatzav.md)   | [Amir Something](Amir/Amir.md) |    | [Nadav ](Eli/Eli.md)   |
+|[Eitan Glassman](Glasssman/Glasssman.md) | [Yotam Perlitz](Perlitz/Perlitz.md) | [Eli Babajanov](Eli/Eli.md)   |
+|[Hatzav Something](Hatzav/Hatzav.md)   | [Amir Something](Amir/Amir.md)   | [Nadav ](Eli/Eli.md)   |
 
