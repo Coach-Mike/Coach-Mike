@@ -15,7 +15,7 @@ If you are a member of my team, scroll down for your personal plan.
 ## Resources 
 
 - My [YouTube channel](https://www.youtube.com/channel/UCLdE68DVcsveVZOibkKn1iA/videos)
-- A great video about [barefoot running](https://youtu.be/TgFj3jy4h2Y?t=21).
+- A great video about [barefoot running](https://youtu.be/TgFj3jy4h2Y?t=22).
 
 
 ## Personal plans
